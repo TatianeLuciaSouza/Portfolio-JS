@@ -1,0 +1,87 @@
+{
+  "name": "Tatiane Lucia",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Analista de Desenvolvimento",
+  "location": "Santo André - SP",
+  "phone": "(11) 95918-9509",
+  "email": "tatianelucia1998@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/TatianeLuciaSouza/Pokedex-JS",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página para Rotacionar os cards dos filmes do Homem Aranha",
+      "url": "https://github.com/TatianeLuciaSouza/Spider-Man-Multiverses",
+      "github": true
+    }
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/TatianeLuciaSouza/Portfolio-JS",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Analista de Desenvolvimento",
+      "period": "2024 - até o momento",
+      "description": "Desenvolvimento nas demandas realizadas para o cliente Bradesco Seguros."
+    },
+    {
+      "name": "Analista de Desenvolvimento",
+      "period": "2022 - 2024",
+      "description": "Desenvolvimento nas demandas realizadas para o cliente Bradesco Seguros."
+    },
+    {
+      "name": "Analista de Desenvolvimento",
+      "period": "2019 - 2022",
+      "description": "Início da minha carreira na área de desenvolvimento, empresa que deu início a todos os meus conhecimentos que só crescem a cada dia."
+    },
+    {
+      "name": "Estágio em Suporte técnico",
+      "period": "2019 - 2019",
+      "description": "Realizar atendimento de suporte técnico por telefone, ferramenta de acesso remoto ou presencial(se necessário), rotinas burocráticas como: abertura e fechamentos de chamados, encaminhar pesquisa de satisfação de atendimento e documentar processos e procedimentos técnicos com as ferramentas do G Suite, Microsoft, Freshworks e Infraestrutura. Realizar atendimento de suporte técnico por telefone, ferramenta de acesso remoto ou presencial(se necessário), rotinas burocráticas como: abertura e fechamentos de chamados, encaminhar pesquisa de satisfação de atendimento e documentar processos e procedimentos técnicos com as ferramentas do G Suite, Microsoft, Freshworks e Infraestrutura."
+    },
+    {
+      "name": "Designer",
+      "period": "2017 - 2019",
+      "description": "Experiência em criação de cartão de visita, logos, folders e entre outras atividades da área."
+    }
+  ]
+}
