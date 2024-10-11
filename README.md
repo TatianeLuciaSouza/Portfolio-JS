@@ -1,4 +1,4 @@
-# Sobre o projeto Trilha JS Portfolio
+# Sobre o projeto JS Portfolio
 
 <img src="https://i.ibb.co/c1BfdvX/pixel-background-of-a-home-office-with-light-shining-through-the-window.png" min-width="500" max-width="500" width="500" align="right">
 
